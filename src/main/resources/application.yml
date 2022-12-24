@@ -1,0 +1,15 @@
+//yml : 스프링부트 외부설정 파일. resources 파일에 위치. key-value 표현
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/jpa_playground?serverTimezone=Asia/Seoul
+    username: root
+    password: 1221
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate.format_sql: true
