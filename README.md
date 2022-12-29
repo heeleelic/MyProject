@@ -5,10 +5,10 @@
 
 
 
-</br></br>Thymeleaf Tutorials 'SeedStarter'를 베이스로 응용하여 **게시판 페이지**를 구현했습니다.
+</br></br>Thymeleaf Tutorial을 응용하여 **게시판 페이지**를 구현했습니다.
 
 
-SeedStarer는 식물을 키우기 시작한 초보 정원사가 매일매일의 관리 일지를 작성할 수 있도록 합니다. 
+*SeedStarer*는 식물을 키우기 시작한 초보 정원사가 매일매일의 관리 일지를 작성할 수 있도록 합니다. 
 </br>
 </br>
 </br>
