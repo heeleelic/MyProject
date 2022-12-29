@@ -38,6 +38,6 @@
 
 # 기타사항
 
-![수강확인증](./images/수강확인증_1.)
+<img src="images/수강확인증_1.png" width="600" height="800">
 
 
