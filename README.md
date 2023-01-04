@@ -1,5 +1,5 @@
 
-# SeedStarter is ... 
+# SeedStarter
 
 > 한국 오픈코스웨어 KOCW의 '스프링과 JPA를 이용한 웹개발'을 수강하며 만든 게시판 프로젝트입니다.
 
